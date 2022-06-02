@@ -1,0 +1,15 @@
+.drawer-header{
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.location-box{
+  position: absolute;
+  z-index: 1;
+ 
+}
+
